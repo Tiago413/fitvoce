@@ -1,0 +1,249 @@
+{
+  "brand": {
+    "name": "FitVocê",
+    "tagline": "Seu treino. Sua dieta. Seu resultado."
+  },
+  "hero": {
+    "headlineA": "Treino + dieta + app. Resultado real, sem adivinhação.",
+    "headlineB": "O método que cabe na sua rotina — e no seu bolso.",
+    "subheadline": "Programa unissex (iniciante ao avançado). Você recebe acesso ao APP com treinos guiados, dieta prática e suporte.",
+    "ctaPrimary": "GARANTIR ACESSO AO APP",
+    "badge": "Acesso imediato ao APP"
+  },
+  "painPoints": [
+    {
+      "title": "Começa e para toda semana?",
+      "description": "A falta de direção faz você desistir antes de ver resultado."
+    },
+    {
+      "title": "Dieta confusa, treino sem direção?",
+      "description": "Informação demais na internet, mas nenhuma funciona pra você."
+    },
+    {
+      "title": "Falta tempo e motivação?",
+      "description": "Você quer resultados, mas precisa de um método que caiba na sua rotina."
+    },
+    {
+      "title": "Gastando sem ver progresso?",
+      "description": "Já investiu em produtos caros e não teve o retorno esperado."
+    }
+  ],
+  "method": {
+    "title": "O que você recebe no FitVocê",
+    "subtitle": "Tudo que você precisa em um só lugar",
+    "features": [
+      {
+        "title": "Treinos por nível",
+        "description": "Do iniciante ao avançado. Casa ou academia. Você escolhe."
+      },
+      {
+        "title": "Dieta ajustável",
+        "description": "Cardápio prático adaptado ao seu objetivo (secar, ganhar massa ou manter)."
+      },
+      {
+        "title": "Acesso 24/7 ao APP",
+        "description": "Treinos na palma da mão, atualizações constantes e sem custo extra."
+      },
+      {
+        "title": "Suporte e comunidade",
+        "description": "Tire dúvidas, compartilhe evolução e não fique sozinho(a) na jornada."
+      },
+      {
+        "title": "Mini-vídeos 3D",
+        "description": "Cada exercício tem demonstração visual para garantir execução perfeita."
+      }
+    ],
+    "cta": "Ver como é por dentro"
+  },
+  "appShowcase": {
+    "title": "Conheça o APP FitVocê",
+    "subtitle": "Você recebe acesso imediatamente após a compra. Login por e-mail, sem complicação.",
+    "screens": [
+      {
+        "name": "Início",
+        "description": "Dashboard personalizado com seu progresso diário"
+      },
+      {
+        "name": "Treinos",
+        "description": "Vídeos 3D guiados para cada exercício"
+      },
+      {
+        "name": "Dieta",
+        "description": "Cardápio completo com substituições fáceis"
+      },
+      {
+        "name": "Progresso",
+        "description": "Gráficos de evolução, fotos e medidas"
+      },
+      {
+        "name": "Perfil",
+        "description": "Configure objetivos e preferências"
+      }
+    ]
+  },
+  "transformation": {
+    "title": "Resultados reais de quem já está dentro",
+    "subtitle": "Não é mágica. É método + consistência.",
+    "benefits": [
+      "Autoestima e confiança no espelho",
+      "Mais energia no dia a dia",
+      "Consistência (finalmente!)",
+      "Resultados visíveis em semanas"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Carlos M.",
+      "age": 32,
+      "gender": "M",
+      "rating": 5,
+      "text": "Perdi 8kg em 2 meses. O app é simples e os treinos cabem na minha rotina corrida.",
+      "result": "8kg em 2 meses"
+    },
+    {
+      "name": "Juliana S.",
+      "age": 28,
+      "gender": "F",
+      "rating": 5,
+      "text": "Finalmente um programa que não desisto na primeira semana. A dieta é prática demais!",
+      "result": "Aderência total"
+    },
+    {
+      "name": "Ricardo P.",
+      "age": 41,
+      "gender": "M",
+      "rating": 5,
+      "text": "Ganhei massa e perdi barriga ao mesmo tempo. Os vídeos 3D fazem toda diferença.",
+      "result": "Recomposição corporal"
+    },
+    {
+      "name": "Mariana L.",
+      "age": 35,
+      "gender": "F",
+      "rating": 5,
+      "text": "Treinava em casa achando que não ia dar resultado. Me surpreendi! Valeu cada centavo.",
+      "result": "Treino em casa eficaz"
+    },
+    {
+      "name": "Felipe T.",
+      "age": 25,
+      "gender": "M",
+      "rating": 5,
+      "text": "Melhor investimento fitness que já fiz. App prático, suporte rápido e resultados rápidos.",
+      "result": "Satisfação garantida"
+    },
+    {
+      "name": "Camila R.",
+      "age": 30,
+      "gender": "F",
+      "rating": 5,
+      "text": "Sou iniciante e consegui seguir sem travar. Agora treino 5x por semana e nem acredito!",
+      "result": "De sedentária a ativa"
+    }
+  ],
+  "offer": {
+    "title": "Programa + APP exclusivo por preço de lançamento",
+    "subtitle": "Acesso vitalício ao método completo",
+    "price": {
+      "currency": "R$",
+      "amount": "39,90",
+      "installments": "12x de R$ 4,97"
+    },
+    "included": [
+      "Treinos progressivos (iniciante ao avançado)",
+      "Dieta ajustável ao seu objetivo",
+      "Acesso completo e vitalício ao APP",
+      "Mini-vídeos 3D de todos os exercícios",
+      "Comunidade exclusiva + suporte",
+      "Atualizações e novos treinos sem custo",
+      "Bônus: E-book Receitas Fit",
+      "Bônus: Planner de Treinos em PDF"
+    ],
+    "guarantee": {
+      "title": "Garantia Risco Zero de 7 dias",
+      "description": "Se você não gostar ou não se adaptar, devolvemos 100% do valor. Sem perguntas, sem complicação."
+    },
+    "cta": "QUERO ACESSO AO APP AGORA",
+    "checkoutUrl": "https://seu-checkout.com",
+    "urgency": "Lote promocional ativo. Preço volta ao normal em breve."
+  },
+  "upsells": [
+    {
+      "title": "Cardápio para Secar",
+      "description": "E-book com 40 receitas rápidas e saborosas para acelerar a queima de gordura.",
+      "price": "+ R$ 19,90"
+    },
+    {
+      "title": "Acesso Estendido Premium",
+      "description": "Garanta 1 ano de suporte prioritário e conteúdos exclusivos mensais.",
+      "price": "+ R$ 29,90"
+    },
+    {
+      "title": "Desafio Abdômen Extremo",
+      "description": "Programa intensivo de 30 dias focado em definição abdominal.",
+      "price": "+ R$ 24,90"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Funciona para homens e mulheres?",
+      "answer": "Sim! O programa é 100% unissex. Você escolhe seus objetivos (secar, ganhar massa, tonificar) e o método se adapta."
+    },
+    {
+      "question": "Precisa de academia?",
+      "answer": "Não é obrigatório. Temos treinos para casa (peso corporal e equipamentos básicos) e também para academia completa. Você escolhe."
+    },
+    {
+      "question": "Sou iniciante total. Consigo fazer?",
+      "answer": "Com certeza! O programa tem progressão do zero, com vídeos explicativos e exercícios adaptados. Você começa no seu ritmo."
+    },
+    {
+      "question": "Como acesso o APP?",
+      "answer": "Assim que finalizar a compra, você recebe um e-mail com login e senha. É só entrar no app pelo celular ou navegador. Acesso imediato, 24/7."
+    },
+    {
+      "question": "Tem garantia mesmo?",
+      "answer": "Sim! 7 dias de garantia incondicional. Se não gostar, é só pedir reembolso pelo suporte e devolvemos 100% do valor."
+    },
+    {
+      "question": "O que vem de bônus?",
+      "answer": "Você ganha o e-book 'Receitas Fit' e o Planner de Treinos em PDF para organizar sua rotina. Tudo incluso no preço."
+    },
+    {
+      "question": "Posso usar no celular?",
+      "answer": "Sim! O APP é 100% mobile-friendly. Funciona perfeitamente em Android, iOS e também na web (computador)."
+    },
+    {
+      "question": "Vou ter que pagar mensalidade?",
+      "answer": "Não! É um pagamento único e você tem acesso vitalício ao programa e ao app, incluindo todas as atualizações futuras."
+    }
+  ],
+  "footer": {
+    "support": "suporte@fitvoce.com.br",
+    "socials": {
+      "instagram": "@fitvoce",
+      "youtube": "/fitvoce",
+      "tiktok": "@fitvoce"
+    },
+    "links": [
+      {
+        "label": "Termos de Uso",
+        "url": "#termos"
+      },
+      {
+        "label": "Política de Privacidade",
+        "url": "#privacidade"
+      },
+      {
+        "label": "Suporte",
+        "url": "#suporte"
+      }
+    ],
+    "disclaimer": "Os resultados variam conforme adesão, rotina e individualidade. Antes de iniciar, consulte um profissional de saúde."
+  },
+  "seo": {
+    "title": "FitVocê - Programa Fitness Completo + APP",
+    "description": "Treino + dieta + app por preço de lançamento. Programa unissex para iniciantes e avançados. Acesso imediato, garantia de 7 dias.",
+    "keywords": "treino em casa, dieta fitness, app de treino, programa fitness, emagrecimento, ganho de massa"
+  }
+}
